@@ -1,0 +1,6 @@
+﻿  nim_test.c
+C:\Users\ameli\OneDrive - ETS\CUT - Session 1\Introduction à la programmation\TP1\TP1_v00\nim_test.c(61,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ameli\OneDrive - ETS\CUT - Session 1\Introduction à la programmation\TP1\TP1_v00\nim_test.c(133,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ameli\OneDrive - ETS\CUT - Session 1\Introduction à la programmation\TP1\TP1_v00\nim_test.c(276,13): warning C4013: '_getch' undefined; assuming extern returning int
+C:\Users\ameli\OneDrive - ETS\CUT - Session 1\Introduction à la programmation\TP1\TP1_v00\nim_test.c(353,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ameli\OneDrive - ETS\CUT - Session 1\Introduction à la programmation\TP1\TP1_v00\nim_test.c(535,34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
